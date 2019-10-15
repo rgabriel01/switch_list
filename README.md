@@ -14,3 +14,7 @@ A bucket list of my **most wanted** switch games
 
 ## Acquired
 - [Warriors Orochi 4](https://gamefaqs.gamespot.com/switch/238525-warriors-orochi-4)
+
+## Other important links
+- [Nintendo e-shop on sale](https://www.nintendo.com/games/game-guide/#filter/:q=&dFR[generalFilters][0]=Deals&dFR[platform][0]=Nintendo%20Switch)
+- [Nintendo e-shop sales and deals](https://www.nintendo.com/games/sales-and-deals/)
